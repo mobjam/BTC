@@ -9,27 +9,29 @@
 
 4) Save the **UNSIGNED** transaction to a USB drive
 
-5) Boot into Tails **(OFFLINE)**, open Electrum (Apps --> Internet --> Electrum Bitcoin Wallet)
+5) Boot into Tails **(OFFLINE)**
 
-6) Import the cold wallet from the seed phrase
+6) Open Electrum (Apps --> Internet --> Electrum Bitcoin Wallet)
 
-7) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_
+7) Import the cold wallet from the seed phrase
 
-8) Click _'Sign'_
+8) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_
 
-9) Click _'Share'_ --> _'Save to file'_
+9) Click _'Sign'_
 
-10) Save the **SIGNED** transaction to the USB drive
+10) Click _'Share'_ --> _'Save to file'_
 
-11) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac **(ONLINE)**
+11) Save the **SIGNED** transaction to the USB drive
 
-12) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
+12) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac **(ONLINE)**
 
-13) Select the SIGNED transaction from the USB drive
+13) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
 
-14) Click on _'Broadcast'_
+14) Select the SIGNED transaction from the USB drive
 
-15) Check for receipt of transaction at the recieving wallet.
+15) Click on _'Broadcast'_
+
+16) Check for receipt of transaction at the recieving wallet.
 
 ----------------
 

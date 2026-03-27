@@ -1,7 +1,7 @@
 # How to send BTC from cold storage wallet using Tails and Electrum
 
 
-1) Open the watch-only cold wallet in Electrum on Windows (ONLINE)
+1) Open the watch-only cold wallet in Electrum on Windows/Mac (ONLINE)
 
 2) Enter the details of the send transaction, click 'Pay'
 
@@ -21,7 +21,7 @@
 
 10) Save the SIGNED transaction to the USB drive
 
-11) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows (ONLINE)
+11) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac (ONLINE)
 
 12) Click on 'Tools' --> 'Load transaction' --> 'From file' 
 

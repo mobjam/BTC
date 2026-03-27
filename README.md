@@ -39,11 +39,11 @@
 
 **Resources:**
 
-  - https://tails.net/
+  - https://tails.net/ (download Tails OS image file)
 
-  - https://etcher.balena.io/
+  - https://etcher.balena.io/ (write Tails image to USB drive)
 
-  - https://electrum.org/
+  - https://electrum.org/ (download Electrum Wallet for Windows/Mac)
 
 
 

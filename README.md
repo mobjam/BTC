@@ -1,5 +1,5 @@
-# BTC
-How to send BTC from cold storage wallet using Tails and Electrum
+# How to send BTC from cold storage wallet using Tails and Electrum
+
 
 Open watch-only wallet in Electrum
 

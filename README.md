@@ -33,7 +33,7 @@
 
 16) Click on _'Broadcast'_
 
-17) Check for receipt of transaction at the recieving wallet.
+17) Check for receipt of the transaction at the recieving wallet address.
 
 ----------------
 

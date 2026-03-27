@@ -13,7 +13,7 @@
 
 6) Open Electrum (Apps --> Internet --> Electrum Bitcoin Wallet)
 
-7) Import the cold wallet from the seed phrase
+7) Import the cold wallet using the seed phrase
 
 8) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_
 

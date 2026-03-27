@@ -37,7 +37,7 @@
 
 ----------------
 
-Resources:
+**Resources:**
 
 https://tails.net/
 

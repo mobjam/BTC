@@ -21,7 +21,7 @@
 
 10) Save the SIGNED transaction to the USB drive
 
-11) Power-off Tails and retuen to Electrum on Windows (ONLINE)
+11) Power-off Tails and retuen to the watch-only cold wallet in Electrum on Windows (ONLINE)
 
 12) Click on 'Tools' --> 'Load transaction' --> 'From file' 
 

@@ -3,9 +3,9 @@
 
 1) Open the watch-only cold wallet in Electrum on Windows/Mac (ONLINE)
 
-2) Enter the details of the send transaction, click 'Pay'
+2) Enter the details of the send transaction, click _'Pay'_
 
-3) On the transaction screen, click on 'Share' --> 'Save to file'
+3) On the transaction screen, click on _'Share'_ --> _'Save to file'_
 
 4) Save the UNSIGNED transaction to a USB drive
 
@@ -13,21 +13,21 @@
 
 6) Import the cold wallet from the seed phrase
 
-7) Click on 'Tools' --> 'Load transaction' --> 'From file'
+7) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_
 
-8) Click 'Sign'
+8) Click _'Sign'_
 
-9) Click 'Share' --> 'Save to file'
+9) Click _'Share'_ --> _'Save to file'_
 
 10) Save the SIGNED transaction to the USB drive
 
 11) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac (ONLINE)
 
-12) Click on 'Tools' --> 'Load transaction' --> 'From file' 
+12) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
 
 13) Select the SIGNED transaction from the USB drive
 
-14) Click on 'Broadcast'
+14) Click on _'Broadcast'_
 
 15) Check for receipt of transaction at the recieving wallet.
 

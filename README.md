@@ -17,21 +17,23 @@
 
 8) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_
 
-9) Click _'Sign'_
+9) Select the **UNSIGNED** transaction from the USB drive
 
-10) Click _'Share'_ --> _'Save to file'_
+10) Click _'Sign'_
 
-11) Save the **SIGNED** transaction to the USB drive
+11) Click _'Share'_ --> _'Save to file'_
 
-12) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac **(ONLINE)**
+12) Save the **SIGNED** transaction to the USB drive
 
-13) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
+13) Power-off Tails and return to the watch-only cold wallet in Electrum on Windows/Mac **(ONLINE)**
 
-14) Select the SIGNED transaction from the USB drive
+14) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
 
-15) Click on _'Broadcast'_
+15) Select the SIGNED transaction from the USB drive
 
-16) Check for receipt of transaction at the recieving wallet.
+16) Click on _'Broadcast'_
+
+17) Check for receipt of transaction at the recieving wallet.
 
 ----------------
 

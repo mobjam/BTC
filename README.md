@@ -39,11 +39,11 @@
 
 **Resources:**
 
-https://tails.net/
+  - https://tails.net/
 
-https://etcher.balena.io/
+  - https://etcher.balena.io/
 
-https://electrum.org/
+  - https://electrum.org/
 
 
 

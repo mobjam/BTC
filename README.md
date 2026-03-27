@@ -36,6 +36,10 @@
 Resources:
 
 https://tails.net/
+
 https://etcher.balena.io/
+
 https://electrum.org/
+
+
 

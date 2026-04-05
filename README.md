@@ -41,7 +41,7 @@
 
   - https://tails.net/ (download Tails OS image file)
 
-  - https://etcher.balena.io/ (write Tails image to USB drive)
+  - https://etcher.balena.io/ (write Tails image to bootable USB drive)
 
   - https://electrum.org/ (download Electrum Wallet for Windows/Mac)
 

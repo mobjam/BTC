@@ -29,7 +29,7 @@
 
 14) Click on _'Tools'_ --> _'Load transaction'_ --> _'From file'_ 
 
-15) Select the SIGNED transaction from the USB drive
+15) Select the **SIGNED** transaction from the USB drive
 
 16) Click on _'Broadcast'_
 
